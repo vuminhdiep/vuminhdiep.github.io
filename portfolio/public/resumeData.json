@@ -41,7 +41,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Here are some of technology I use.",
     "education": [
       {
         "school":"Union College",
@@ -75,31 +75,44 @@
     "skills": [
       {
         "name": "Git",
-        "level": "60%"
+        "description": "I use Git for all of my projects so far. I have used Git for version control in teams.",
+        "image": "git.jpg"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
+        "name": "Java",
+        "description": "I learned Java in OOP class in college. The final project was a poker player",
+        "image": "java.jpg"
       },
       {
-        "name": "ReactJs",
-        "level": "50%"
+        "name": "React Js",
+        "description": "I have built React based websites for SheCodes, hackathon and my personal portfolio.",
+        "image": "react.jpg"
       },
       {
-        "name": "CSS",
-        "level": "90%"
+        "name": "GraphQL",
+        "description": "I self-taught GraphQL to call API and get data from SheCodes Facebook fanpage to update on the website",
+        "image": "graphql.png"
+      },
+
+      {
+        "name": "Python",
+        "description": "My first programming language and so far my favorite. I've been using Pandas, Matplotlib for Data Science and Machine Learning in online courses.",
+        "image": "python.png"
       },
       {
-        "name": "HTML5",
-        "level": "80%"
+        "name": "Material-UI",
+        "description": "I use Material-UI to build SheCodes website with robust layout",
+        "image": "material-ui.png"
       },
       {
-        "name": "VueJs",
-        "level": "50%"
+        "name": "PostGresSQL",
+        "description": "I self-taught PostGresSQL on Udemy so that I can apply in Data Analytics.",
+        "image": "postgresSQL.png"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Tableau",
+        "description": "I self-taught Tableau on Udemy so that I can do more of Data Visualization",
+        "image": "tableau.png"
       }
     ]
   },

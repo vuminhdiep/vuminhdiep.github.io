@@ -135,6 +135,12 @@
         "category":"Participated in Data Analytics, Programming Contests against over 1500 teams across Asia. Top 15% in Leaderboard.",
         "image":"shopeecodeleague.jpg",
         "url":"https://github.com/vuminhdiep/Shopee-Code-League-2021"
+      },
+      {
+        "title":"HarvardX Python for Research",
+        "category":"Predicted the type of physical activities (walking, climbing stairs) from tri-axial smartphone accelerator data using Python, Random Forest Classifier with the accuracy of the training set is about 1 and the accuracy on the test set is about 0.91",
+        "image":"pythonforresearch.jpg",
+        "url":"https://github.com/vuminhdiep/EdX-Python-for-Research"
       }
     ]
   },

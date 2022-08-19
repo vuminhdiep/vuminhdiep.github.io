@@ -1,0 +1,159 @@
+{
+  "main": {
+    "name": "Vu Minh Diep",
+    "occupation": "(Your Occupation Here)",
+    "description": "Actively looking for Summer 2022 Internships",
+    "image": "profilepic.jpg",
+    "bio": "A sophomore at Union College majoring in ID Computer Science & Economics with interests in Software Development, Data Science/Analytics & their applications in Business Consulting.",
+    "contactmessage": "Warning! Please use email to contact me instead. I can be reached at diepvu.work@gmail.com",
+    "email": "diepvu.work@gmail.com",
+    "phone": "518-709-2045",
+    "address": {
+      "street": "807 Union Street",
+      "city": "Schenectady",
+      "state": "NY",
+      "zip": "12308"
+    },
+    "website": "http://www.vuminhdiep.github.io/portfolio",
+    "resumedownload": "https://drive.google.com/file/d/1IL5ZzlQ4b-OVPRf-1d9Zxe-i7czYUoYj/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/vuminhdiep01",
+        "className": "fa fa-facebook"
+      },
+      
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/vuminhdiep01/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/hiitsdiep",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/vuminhdiep",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are some of technology I use.",
+    "education": [
+      {
+        "school":"Union College",
+        "degree":"Bachelor of Science",
+        "graduated":"June 2024",
+        "description":"ID major in Computer Science and Economics. GPA: 3.83/4"
+        
+      }
+      
+    ],
+    "work": [
+      {
+        "company":"SheCodes Vietnam",
+        "title":"Program Manager/Software Engineer",
+        "years":"Dec. 2020 - Present",
+        "description":"In charge of organizing the biggest event of SheCodes Hanoi with over 250+ female attendees. Work in a team of 17 to build auto-generated certificates, auto-graded coding assignments, and website maintenance using React, GraphQL, Material-UI."
+      },
+      {
+        "company":"InfiniGruLabs",
+        "title":"Data Science Intern",
+        "years":"Sept. 2020 - Dec. 2020",
+        "description":"Preprocessed and analyzed voice recordings from customer service of an electric company to build Speech Recognition. Run tests and demos the Speech Recognition system. Studied company’s financial fraud detection system."
+      },
+      {
+        "company":"Savvycom Software JSC",
+        "title":"Business Consultant Intern",
+        "years":"Jun. 2020 - Sept. 2020",
+        "description":"Plan marketing strategies to improve SEO, update databases to find leads, manage social media accounts & websites. Communicated with the technical team and the customer to clarify the requirements and configuration."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "description": "I use Git for all of my projects so far. I have used Git for version control in teams.",
+        "image": "git.jpg"
+      },
+      {
+        "name": "Java",
+        "description": "I learned Java in OOP class in college. The final project was a poker player",
+        "image": "java.jpg"
+      },
+      {
+        "name": "React Js",
+        "description": "I have built React based websites for SheCodes, hackathon and my personal portfolio.",
+        "image": "react.jpg"
+      },
+      {
+        "name": "GraphQL",
+        "description": "I self-taught GraphQL to call API and get data from SheCodes Facebook fanpage to update on the website",
+        "image": "graphql.png"
+      },
+
+      {
+        "name": "Python",
+        "description": "My first programming language and so far my favorite. I've been using Pandas, Matplotlib for Data Science and Machine Learning in online courses.",
+        "image": "python.png"
+      },
+      {
+        "name": "Material-UI",
+        "description": "I use Material-UI to build SheCodes website with robust layout",
+        "image": "material-ui.png"
+      },
+      {
+        "name": "PostGresSQL",
+        "description": "I self-taught PostGresSQL on Udemy so that I can apply in Data Analytics.",
+        "image": "postgresSQL.png"
+      },
+      {
+        "name": "Tableau",
+        "description": "I self-taught Tableau on Udemy so that I can do more of Data Visualization",
+        "image": "tableau.png"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title":"Ve Dong",
+        "category":"Recycling website built with HTML, CSS, JavaScript, PHP, AWS in SheCodes Hackathon 2020",
+        "image":"ve dong.png",
+        "url":"https://github.com/vuminhdiep/vedong-shecodes"
+      },
+      {
+        "title":"SheCodes Vietnam website",
+        "category":"Update hackathon website using GraphQL, Material-UI, React",
+        "image":"shecodes.png",
+        "url":"https://shecodesvietnam.com/#/"
+      },
+      {
+        "title":"Shopee Code League",
+        "category":"Participated in Data Analytics, Programming Contests against over 1500 teams across Asia. Top 15% in Leaderboard.",
+        "image":"shopeecodeleague.jpg",
+        "url":"https://github.com/vuminhdiep/Shopee-Code-League-2021"
+      },
+      {
+        "title":"HarvardX Python for Research",
+        "category":"Predicted the type of physical activities (walking, climbing stairs) from tri-axial smartphone accelerator data using Python, Random Forest Classifier with the accuracy of the training set is about 1 and the accuracy on the test set is about 0.91",
+        "image":"pythonforresearch.jpg",
+        "url":"https://github.com/vuminhdiep/EdX-Python-for-Research"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
